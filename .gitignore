@@ -1,0 +1,11 @@
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.mysql_history
+.profile
+.ssh/
+.viminfo
+app/*.log
+app/png
+app/plugins
